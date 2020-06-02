@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] E:\ReactNative\TTT\Trivia-Quiz-App\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\8c43b5db08cf9928fcb4f374326ebaac\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6e9ba8dfe07faa5359b5575960b65370\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a2b147ac6b962d8cd18a38226c409b50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\89858d12ded33f5bb07df02561abe830\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\88eb9b15f5008c771195f1696dfe2371\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\153fe6832c23856fd6d2ac67bff80de2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\06137f9f77fbae6c9428c7edee944de8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8d368d58f7280159e72be0a9ffd51da5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bc4488eea24673f503a8d4e47d1f6e16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7ad16d259697cec62d1f34406d91d50d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e434f1ddb10079dc67910595b5f5eab6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ac3542dc1170cd6df11c0ee63c923057\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\180cf527fcf399cd870789ea4d990dc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2172ceef5d5fdf98450baf65d91db628\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fc1969a937413187ba7860330cce5682\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\404814226350e18ec35b98054c15c041\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d8078a895d9eb08d4da093135e00e232\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\31db281e808cc648ddda663e81f82e90\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f68353ad87ab477daab43d10112f9080\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1df7f254a78b7ff9b2a2fd02becd0659\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fd122a15e86447031df410872f3412da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d959cdbf946ae2a8c693b4beee827acc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1c68fc51e70c4fcd0326cd1591bb607b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8e0c3bb88f1f2d8cf148c777f2362475\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4f498091367f11ebd2eafa2b044c8547\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\481bf69a37e88f3ed39ec82070a29de8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\73d1aa14e0d0193cfcda14169d48905d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\0a04a6103f9c0c0a04c9daa1b20b5c8b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\5252228dd7469b872945e11b2cd7c3d9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\b05891aaba74b22f76ac127fbd91891b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\c53323d7a96381eb776cd47665f42635\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e7c4af762720a95dcde5f1bf7bcc4680\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ddb702ba6f8f08fe476f155c7c7665fb\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\32f7c2b6580e44dede3015e04690e426\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\8c43b5db08cf9928fcb4f374326ebaac\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\8c43b5db08cf9928fcb4f374326ebaac\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\404814226350e18ec35b98054c15c041\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\404814226350e18ec35b98054c15c041\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d8078a895d9eb08d4da093135e00e232\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d8078a895d9eb08d4da093135e00e232\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ddb702ba6f8f08fe476f155c7c7665fb\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ddb702ba6f8f08fe476f155c7c7665fb\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\404814226350e18ec35b98054c15c041\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.testproject.MainActivity
+ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] E:\ReactNative\TTT\Trivia-Quiz-App\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] E:\ReactNative\TTT\Trivia-Quiz-App\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\8c43b5db08cf9928fcb4f374326ebaac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\8c43b5db08cf9928fcb4f374326ebaac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6e9ba8dfe07faa5359b5575960b65370\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6e9ba8dfe07faa5359b5575960b65370\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a2b147ac6b962d8cd18a38226c409b50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a2b147ac6b962d8cd18a38226c409b50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\89858d12ded33f5bb07df02561abe830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\89858d12ded33f5bb07df02561abe830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\88eb9b15f5008c771195f1696dfe2371\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\88eb9b15f5008c771195f1696dfe2371\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\153fe6832c23856fd6d2ac67bff80de2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\153fe6832c23856fd6d2ac67bff80de2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\06137f9f77fbae6c9428c7edee944de8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\06137f9f77fbae6c9428c7edee944de8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8d368d58f7280159e72be0a9ffd51da5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8d368d58f7280159e72be0a9ffd51da5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bc4488eea24673f503a8d4e47d1f6e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bc4488eea24673f503a8d4e47d1f6e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7ad16d259697cec62d1f34406d91d50d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7ad16d259697cec62d1f34406d91d50d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e434f1ddb10079dc67910595b5f5eab6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e434f1ddb10079dc67910595b5f5eab6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ac3542dc1170cd6df11c0ee63c923057\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ac3542dc1170cd6df11c0ee63c923057\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\180cf527fcf399cd870789ea4d990dc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\180cf527fcf399cd870789ea4d990dc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2172ceef5d5fdf98450baf65d91db628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2172ceef5d5fdf98450baf65d91db628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fc1969a937413187ba7860330cce5682\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fc1969a937413187ba7860330cce5682\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\404814226350e18ec35b98054c15c041\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\404814226350e18ec35b98054c15c041\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d8078a895d9eb08d4da093135e00e232\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d8078a895d9eb08d4da093135e00e232\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\31db281e808cc648ddda663e81f82e90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\31db281e808cc648ddda663e81f82e90\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f68353ad87ab477daab43d10112f9080\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f68353ad87ab477daab43d10112f9080\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1df7f254a78b7ff9b2a2fd02becd0659\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1df7f254a78b7ff9b2a2fd02becd0659\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fd122a15e86447031df410872f3412da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fd122a15e86447031df410872f3412da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d959cdbf946ae2a8c693b4beee827acc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d959cdbf946ae2a8c693b4beee827acc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1c68fc51e70c4fcd0326cd1591bb607b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1c68fc51e70c4fcd0326cd1591bb607b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8e0c3bb88f1f2d8cf148c777f2362475\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8e0c3bb88f1f2d8cf148c777f2362475\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4f498091367f11ebd2eafa2b044c8547\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4f498091367f11ebd2eafa2b044c8547\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\481bf69a37e88f3ed39ec82070a29de8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\481bf69a37e88f3ed39ec82070a29de8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\73d1aa14e0d0193cfcda14169d48905d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\73d1aa14e0d0193cfcda14169d48905d\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\0a04a6103f9c0c0a04c9daa1b20b5c8b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\0a04a6103f9c0c0a04c9daa1b20b5c8b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\5252228dd7469b872945e11b2cd7c3d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\5252228dd7469b872945e11b2cd7c3d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\b05891aaba74b22f76ac127fbd91891b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\b05891aaba74b22f76ac127fbd91891b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\c53323d7a96381eb776cd47665f42635\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\c53323d7a96381eb776cd47665f42635\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e7c4af762720a95dcde5f1bf7bcc4680\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e7c4af762720a95dcde5f1bf7bcc4680\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ddb702ba6f8f08fe476f155c7c7665fb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ddb702ba6f8f08fe476f155c7c7665fb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\32f7c2b6580e44dede3015e04690e426\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\BooKu\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\32f7c2b6580e44dede3015e04690e426\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from E:\ReactNative\TTT\Trivia-Quiz-App\android\app\src\debug\AndroidManifest.xml:5:22-75
