@@ -18,7 +18,7 @@ let totalSeconds = 0;
 
 class Quiz extends React.Component {
   static navigationOptions = ({navigation, screenProps}) => ({
-    title: 'First',
+    title: 'TestFirst',
   });
   state 
   constructor(props) {
